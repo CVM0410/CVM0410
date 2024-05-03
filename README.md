@@ -1,9 +1,7 @@
 ![MasterHead](https://github.com/CVM0410/CVM0410/blob/main/Make%20your%20README.png)
 <h1 align="center">Hi 👋, I'm Chirag Mahajan</h1>
 <h3 align="center">Passionate and driven CS grad with a thirst for technical challenges. Eager to explore diverse domains and contribute meaningfully to the world of technology. Interested in Finance, Machine Learning and anything involving Maths and Logic.</h3>
-<p align="right">
-  <img alt="Coding" width="400" src="https://github.com/CVM0410/CVM0410/blob/main/poster.gif">
-</p>
+<img align="right" alt="Coding" width="400" src="https://github.com/CVM0410/CVM0410/blob/main/poster.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CVM0410&label=Profile%20views&color=0e75b6&style=flat" alt="CVM0410" /> </p>
 
