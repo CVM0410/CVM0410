@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/CVM0410/CVM0410/blob/main/Make%20your%20README-2.png)
 <h1 align="center">Hi 👋, I'm Chirag Mahajan</h1>
-<h3 align="center"">Passionate and driven CS grad with a thirst for technical challenges. Eager to explore diverse domains and contribute meaningfully to the world of technology. Interested in Finance, Machine Learning and anything involving Maths and Logic.</h3>
+<h3 align="center"">Passionate and driven CS grad with a thirst for technical challenges. Eager to explore diverse domains and contribute meaningfully to the world of technology. Interested in Machine Learning, Deep Learning, Natural Language Processing and anything involving Maths and Logic.</h3>
 &nbsp;
 &nbsp;
 
