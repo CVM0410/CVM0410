@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mahajanchirag.04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-aP9md79fGHtp1HviytQGTauyLNM_D1L/view?usp=sharing](https://drive.google.com/file/d/1-aP9md79fGHtp1HviytQGTauyLNM_D1L/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z5FIEWe0IxgcGoE7jg7777CJdKyXAwY-/view?usp=sharing](https://drive.google.com/file/d/1Z5FIEWe0IxgcGoE7jg7777CJdKyXAwY-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
