@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Generative AI, LLM Application Development**
 
-- 📫 How to reach me **mahajanchirag.04@gmail.com**
+- 📫 How to reach me **cm6591@nyu.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z5FIEWe0IxgcGoE7jg7777CJdKyXAwY-/view?usp=sharing](https://drive.google.com/file/d/1Z5FIEWe0IxgcGoE7jg7777CJdKyXAwY-/view?usp=sharing)
 
