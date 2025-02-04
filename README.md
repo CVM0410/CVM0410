@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CVM0410&label=Profile%20views&color=0e75b6&style=flat" alt="CVM0410" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, LLM Application Development**
+- 🌱 I’m currently researching on **Generative AI, Computer Vision, Vision Language Models for Medical Imaging**
 
 - 📫 How to reach me **cm6591@nyu.edu**
 
